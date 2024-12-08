@@ -16,15 +16,14 @@
 
 <nav>
 <ul>
-<li><a href="index.html">About Us</a>
-</li><li><a href="courses.html">Why Us?</a>
-</li><li><a href="resume.html">Our Team</a>
-</li><li><a href="contact.html">Products</a>
-</li><li><a href="http://unh.edu">Contact Us</a></li>
-</ul>
-</nav>
 
-<p>My first paragraph.</p>
+
+<aside>
+<img src = founder.jpg>
+<p> 
+<section>
+<p>Clean Current was founded by Chantelle Peters in 2008. We originally sold underwater cameras to observe life under water, but later realized sea life was scared off by the technology. This led us to create a new product, creating a real-life looking robotic fish that observed the underwater life where pollution and waste is most common. From the data used with the robot, we can easily come up with a solution to prevent more waste from collecting here.</p>
+</section>
 
 </body>
 </html>
